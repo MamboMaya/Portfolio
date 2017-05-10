@@ -171,13 +171,13 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 700px;
+    width: 1200px;
   }
 }
 
 .site-wrapper {
-    background-image: url(http://www.infotravel.club/wp-content/uploads/2016/04/los-angeles-tumblr-skyline.jpg);
+    background-image: url(https://c1.staticflickr.com/3/2675/3687164986_30d3bf4484_b.jpg);
     background-size: cover;
     background-position: center center;
-    
+
 }
