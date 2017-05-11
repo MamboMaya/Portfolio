@@ -7,9 +7,9 @@
     }
 }
 
-.jumbotron {
-    background-color: fuchsia;
-}
+/*.jumbotron {
+    background-color: orange;
+}*/
 
 /*
  * Globals
@@ -180,9 +180,31 @@ body {
     background-image: url(https://c1.staticflickr.com/3/2675/3687164986_30d3bf4484_b.jpg);
     background-size: cover;
     background-position: center center;
+}
 
+.lang-list {
+  list-style-type: none;
+  display: block;
+}
+
+.lang-list img {
+  max-height: 25px;
+  border-radius: 50%;
+  margin-left: 10px;
 }
 
 .medium {
   border-radius: 50%;
+  width: 150px;
 }
+
+.jumbotron {
+  background-color: lightgrey;
+  color: black;
+}
+
+.github {
+  border-radius: 50%;
+  width: 150px;
+}
+
