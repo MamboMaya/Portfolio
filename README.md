@@ -1,5 +1,4 @@
 # Portfolio
-My Portfolio
 
 This is the repo for my portfolio which my domain(www.damienmaya.com) is pointing to. As I continue to learn new languages and add more to my arsenal, I will update and add what I have learned.
 
